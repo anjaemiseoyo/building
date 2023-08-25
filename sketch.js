@@ -107,3 +107,5 @@ function movingNumberMatrix() {
   textYpos += dropSpeed;
   generateNumberMatrix();
 }
+
+p5.disableFriendlyErrors = true;
